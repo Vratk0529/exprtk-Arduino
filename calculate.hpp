@@ -1,4 +1,5 @@
 #include <Arduino.h>
+#define EXPRTK_NO_INLINE
 #include "exprtk.hpp"
 
 class expressionEval {
